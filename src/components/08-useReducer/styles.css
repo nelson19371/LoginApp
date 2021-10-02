@@ -1,6 +1,4 @@
-body{
-    padding: 50px;
-}
+
 
 p{
     cursor: pointer;
@@ -18,8 +16,15 @@ p{
     text-decoration: line-through;
 }
 
-body{background-color: black;}
+body{background-color: rgb(41, 38, 38);}
 
 h4, h1{
-    color: purple;
+    text-align: center;
+    color: white;
 }
+button{
+    margin-left: 670px;
+}
+ pre{
+     color: white;
+ }
